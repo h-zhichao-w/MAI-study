@@ -1,0 +1,97 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=latex 2021.7.13)  21 APR 2023 15:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"c:/Users/hanse/OneDrive - sjtu.edu.cn/Parts and Assemblies Engineering/Lab 1/term-paper-template.tex"
+(c:/Users/hanse/OneDrive - sjtu.edu.cn/Parts and Assemblies Engineering/Lab 1/term-paper-template.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(d:/texlive/2021/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (./settings.tex (d:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (d:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (d:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (d:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
+) (d:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty (d:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (d:/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+ (d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2021-03-18 L3 backend support: dvips
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count190
+\l__pdf_backend_content_box=\box48
+\l__pdf_backend_model_box=\box49
+\g__pdf_backend_annotation_int=\count191
+\g__pdf_backend_link_int=\count192
+\g__pdf_backend_link_sf_int=\count193
+)) (d:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (d:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex)))
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+
+! Fatal Package fontspec Error: The fontspec package requires either XeTeX or
+(fontspec)                      LuaTeX.
+(fontspec)                      
+(fontspec)                      You must change your typesetting engine to,
+(fontspec)                      e.g., "xelatex" or "lualatex"instead of
+(fontspec)                      "latex" or "pdflatex".
+
+Type <return> to continue.
+ ...                                              
+                                                  
+l.45 \msg_fatal:nn {fontspec} {cannot-use-pdftex}
+                                                 
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.45 \msg_fatal:nn {fontspec} {cannot-use-pdftex}
+                                                 
+
+LaTeX does not know anything more about this error, sorry.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+This is a fatal error: LaTeX will abort.
+
+
+ 
+Here is how much of TeX's memory you used:
+ 992 strings out of 478995
+ 17407 string characters out of 5862233
+ 307591 words of memory out of 5000000
+ 18531 multiletter control sequences out of 15000+600000
+ 403728 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 86i,0n,92p,392b,44s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
