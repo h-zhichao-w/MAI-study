@@ -1,0 +1,97 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{float}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{chronology}
+\usepackage{graphicx}
+\graphicspath{images}
+\usepackage[style=apa]{biblatex}
+\addbibresource{bib.bib}
+\usepackage{moreverb}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{rotating}
+\usepackage{hyperref}
+\hypersetup{hypertex=true,
+            colorlinks=true,
+            linkcolor=blue,
+            anchorcolor=blue,
+            citecolor=blue}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+ }
+
+ \providecommand{\keywords}[1]
+{
+  \small	
+  \textbf{\textit{Keywords---}} #1
+}
+
+\title{Report of Lab 2}
+\author{Wang Zhichao \\ [1ex] hansen\_wong@sjtu.edu.cn}
+\date{May 2023}
+
+\pagenumbering{gobble}
+
+\begin{document}
+
+\maketitle
+
+%TC:ignore
+\begin{center}
+    \includegraphics[scale=0.35]{images/mai.png}
+
+    \vspace{0.8cm}
+
+    Aircraft Enginering\\
+    Moscow Aviation Institute\\
+    Moscow, Russia
+
+    \vspace{0.8cm}
+
+    Submitted in partial fulfilment of the requirements for course of Aircraft Enginering
+
+    \vspace{0.8cm}
+
+    \textit{Supervisor} Prof. Gueraiche Djahid 
+
+    \vspace{0.8cm}
+
+    Word Count: 1266 words
+\end{center}
+
+\pagebreak
+
+\pagenumbering{roman}
+
+% \begin{abstract}
+%     Insert abstract here.
+% \end{abstract}
+
+% \keywords{Insert keywords here}
+%TC:endignore
+
+\pagebreak
+
+\tableofcontents
+\pagebreak
+
+\pagenumbering{arabic}
+
+% \input{Sections/Section 1 - Literature Review.tex}
+
+% \input{Sections/Section 2 - Progress Update.tex}
+
+% \section*{References}
+
+\input{Sections/Response.tex}
+\input{Sections/mission profile.tex}
+\input{Sections/Wing structural arangement.tex}
+
+\printbibliography[heading=none]
+
+\end{document}
